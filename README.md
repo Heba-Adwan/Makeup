@@ -1,5 +1,5 @@
 # Makeup 💥
-**click here**(https://github.com/HebaNow/Makeup)
+**click here**(https://hebanow.github.io/Makeup/)
 * heba adwan 
 * css
 * html
