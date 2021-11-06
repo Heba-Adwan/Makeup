@@ -1,18 +1,20 @@
 # Makeup 💥
-**click here**(https://hebanow.github.io/Makeup/)
+**click here**(https://hebanow.github.io/smart-page/)
 * heba adwan 
 * css
 * html
-* type of makeup❔
-  * mouth
-  * eye
-  * face
-  * skin
+* Smart nav❔
+  * Home
+  * contact
+  * about
+  *
 
 Numbered list:
 
   1. clients
   2. location
   3. comment
-  
-![mm](https://user-images.githubusercontent.com/93095734/140570907-92fd80f5-0074-41a6-8c06-f4e90283f6af.png)
+  4. map
+  ![Capture](https://user-images.githubusercontent.com/93095734/140613301-fe66916b-4883-4850-9bca-04fc7bec046f.PNG)
+
+
